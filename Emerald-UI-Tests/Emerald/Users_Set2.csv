@@ -1,2 +1,3 @@
-email,firstname,lastname,phone
-stuart.walker@hcl.com,Stuart,Walker,017894 123456
+email,firstname,lastname,phone,NewColumn1
+stuart.walker@hcl.com,Stuart,Walker,017894 123456,1
+bowen.shao@hcl.com,Bowen,Shao,123456780,2
